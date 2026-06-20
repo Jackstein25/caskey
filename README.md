@@ -12,3 +12,9 @@ This is my first GitHub repository.
 - Learn GitHub
 - Learn Git
 - Build AI projects
+ ## Skills I'm Learning
+
+- GitHub
+- VS Code
+- AI Tools
+- Business Analytics
