@@ -7,3 +7,8 @@ I'm studying business at SNHU.
 I enjoy baseball, poker, and AI.
 
 This is my first GitHub repository.
+## Goals
+
+- Learn GitHub
+- Learn Git
+- Build AI projects
