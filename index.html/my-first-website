@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jack's First Website</title>
+</head>
+<body>
+    <h1>Hello, I'm Jack!</h1>
+    <p>This is my first webpage.</p>
+
+    <h2>Favorite Team</h2>
+    <p>Chicago Cubs</p>
+
+    <h2>Favorite Player</h2>
+    <p>Ryne Sandberg</p>
+</body>
+</html>
